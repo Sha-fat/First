@@ -1,0 +1,94 @@
+body{
+    margin:0px
+}
+html{
+    background:url(picture.jpg) no-repeat center fixed;
+    background-size:cover;
+}
+
+
+#div1{
+     background-color: #04AA6D;
+     border-radius: 4px;
+     margin-left: 40px;
+     margin-right: 3%;
+}
+#div1 h1{
+    margin-bottom: 0px;
+    color:aliceblue;
+}
+#div1 p{
+    margin-top: 0px;
+    color:white
+}
+#div2 ul li{
+    width:70%;
+    border: 1px solid;
+    margin-bottom:3px;
+    font-size: 20px;
+    border-radius:4px;
+    list-style-type: none;
+   
+}
+#design1{
+    background-color:#04AA6D;
+    color:white;
+    font-size:16px
+}
+li#design2:hover{
+    background-color:white;
+}
+#design2{
+    background-color:#F1F1F1
+}
+#div2 {
+    float:left;
+    width:26%;
+   
+}
+#div3{
+    float:left;
+    width:36%;
+    padding-right:5%;
+    box-sizing: border-box;
+
+    
+}
+#div5 {
+    float:left;
+    width:35%;
+    padding-left:3%;
+    padding-right:3%;
+   background-color:#32A4E7;
+   color:white;
+   border-radius:4px;
+   box-sizing: border-box;
+}
+#clear{
+    clear:both
+}
+#div3 a:hover{
+    text-decoration: none;
+    color:black;
+}
+#div4{
+    margin-left:26%;
+    margin-right:38%;
+}
+.para{
+    background-color: hsl(0, 4%, 68%);
+     border-radius: 4px;
+     margin-left: 40px;
+     margin-right: 3%;
+    margin-top:2%
+}
+#div3 a{
+    color:red;
+}
+#div4 a{
+    color:red;
+}
+#div4 a:hover{
+    text-decoration: none;
+    color:black
+}
